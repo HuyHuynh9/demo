@@ -1,2 +1,2 @@
-print("Hello, world!")
-print("Hello, world!, coi conflict ne")
+print("Hello, world!, gi do")
+print("Hello, world! 123")
