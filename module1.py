@@ -1,1 +1,1 @@
-
+print("Smiley Cow")
